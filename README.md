@@ -111,4 +111,3 @@ python -m unittest discover -s tests -v
 - [Codex 子 agent 与模型配置](https://learn.chatgpt.com/docs/agent-configuration/subagents)
 - [MIT License](LICENSE)
 
-发布步骤见 [PUBLISH.md](PUBLISH.md)。
