@@ -1,0 +1,15 @@
+{
+  "session_id": "example-session",
+  "author_model": "gpt-6-luna",
+  "author_effort": "medium",
+  "goal": "Continue an example local task",
+  "constraints": ["Keep source files intact", "Exclude archived sessions"],
+  "decisions": ["Keep detailed summaries on demand"],
+  "completed": ["Created an example output"],
+  "verified": ["Describe the actual check and its evidence here"],
+  "unverified": ["New-account login has not been tested"],
+  "failures": [],
+  "next_steps": ["Inspect current files before continuing"],
+  "artifacts": ["An example output path, not a real personal path"],
+  "status": "in_progress"
+}
